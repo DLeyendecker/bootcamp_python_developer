@@ -1,6 +1,6 @@
 ## Bootcamp Python Developer
 
-## Tecnologias utilizadas
+## Tecnologia Utilizada
 
 * Python
 
