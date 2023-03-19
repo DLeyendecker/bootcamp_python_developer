@@ -1,10 +1,6 @@
-## Bootcamp Python Developer
+### Repositório de projetos do Bootcamp Python Developer disponibilizado pela DIO.
 
-## Tecnologia Utilizada
-
-* Python
-
-## Autor
+### Autor
 Davi Leyendecker
 
 https://github.com/DaviLeyendecker
