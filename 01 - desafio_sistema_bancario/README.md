@@ -1,6 +1,8 @@
 ### desafio_sistema_bancario
 
 ### Sobre o projeto
+Criando um Sistema Bancário com Python
+
 Desafio desenvolvido com três operações: depósito, saque e extrato para um banco que deseja monetizar operações em Python.
 
 ### Tecnologias utilizadas
