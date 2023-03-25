@@ -11,6 +11,6 @@ Desafio pensando na otimização do código separando as funções existentes de
 ## Autor
 Davi Leyendecker
 
-https://github.com/DaviLeyendecker
+https://github.com/DLeyendecker
 
 https://www.linkedin.com/in/davileyendecker/
