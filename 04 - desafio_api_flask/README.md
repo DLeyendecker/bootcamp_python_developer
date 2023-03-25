@@ -12,6 +12,6 @@ O Objetivo principal está relacionado com a leitura de uma planilha de dados no
 ## Autor
 Davi Leyendecker
 
-https://github.com/DaviLeyendecker
+https://github.com/DLeyendecker
 
 https://www.linkedin.com/in/davileyendecker/
