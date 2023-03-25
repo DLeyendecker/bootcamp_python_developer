@@ -11,6 +11,6 @@ Desafio desenvolvido com três operações: depósito, saque e extrato para um b
 ## Autor
 Davi Leyendecker
 
-https://github.com/DaviLeyendecker
+https://github.com/DLeyendecker
 
 https://www.linkedin.com/in/davileyendecker/
