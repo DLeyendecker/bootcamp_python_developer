@@ -10,6 +10,3 @@ A utilização da linguagem de programação Python permite criar soluções ino
 ### Tecnologias utilizadas
 * Python
 * Git
-
-### Autor
-Davi Leyendecker
